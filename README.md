@@ -1,13 +1,13 @@
-# ItsMwitah's Learning Portfolio
+# Job Mwitah's Learning Portfolio
 
 ## About
 
-I'm a Smart Contract and Website Applications Security Researcher Enthuasists. 
-Currently, I'm taking Patrick Collins Smart Contract Security Course and some HackTheBox and TryHackMe CTFs.
+I'm an EVM Smart Contract Security Researcher Enthuasist. 
+Currently, I'm taking Patrick Collins Smart Contract Security Course and doing First Flights on CodeHawks.
 
 You can reach out to me on:
-- Twitter: [*@itsmwitah*](https://twitter.com/itsmwitah) 
-- Telegram: [*@itsmwitah*](https://t.me/itsmwitah)
+- Twitter: [*@jobmwitah*](https://twitter.com/jobmwitah) 
+- Telegram: [*@jobmwitah*](https://t.me/jobmwitah)
 
 ## Reports
 
